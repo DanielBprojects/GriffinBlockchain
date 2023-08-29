@@ -7,7 +7,6 @@ Welcome to GriffinBlockchain, a decentralized blockchain network that empowers c
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Usage](#usage)
 - [Marketplace](#marketplace)
 
 ## Introduction
@@ -57,3 +56,7 @@ To start using GriffinBlockchain and explore the local network rare item marketp
 - **P2P Transactions**: Users can negotiate prices, enabling peer-to-peer transactions without intermediaries.
 
 - **Smart Contracts**: GriffinBlockchain supports smart contracts that automate and enforce predefined terms and conditions for trades.
+
+
+## Marketpalce
+   The GriffinBlockchain marketplace is a dynamic hub for connecting buyers and sellers of rare items within your local network. Here, users can find, list, and negotiate the purchase and sale of unique and valuable items, all facilitated by the secure and efficient GriffinBlockchain technology.
